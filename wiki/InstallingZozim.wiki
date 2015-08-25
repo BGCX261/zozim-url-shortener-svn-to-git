@@ -1,0 +1,17 @@
+#summary A guide on how to install the Zozim Script.
+#labels Featured,Phase-Deploy
+
+= Introduction =
+
+Installing Zozim does not take much time or much technical knowledge. Before attempting to install Zozim, please make sure your web host meets the script [http://code.google.com/p/zozim-url-shortener/wiki/Requirements requirements].
+
+
+= Details =
+
+1. Unzip the Zozim zip archive.
+2. Transfer all files via FTP to your web host.
+3. Create a database and database user if needed.
+4. Direct your browser to /install/. Example: http://example.com/zozim/install/.
+5. Fill in all of the fields on the install page.
+6. Click "Install Zozim!".
+7. Congrats, you have now installed the Zozim URL Shortening Script!

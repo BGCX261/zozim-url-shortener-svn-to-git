@@ -1,0 +1,15 @@
+#summary The requirements needed to run the Zozim Script.
+#labels Phase-Requirements
+
+= Introduction =
+
+The requirements needed to run the Zozim Script can be found below.
+
+
+= Details =
+
+It doesn't take too much to run the Zozim script, but your web server must meet the following:
+
+  * PHP 4 or newer
+  * MySQL 4 or newer
+  * *mod_rewrite* enabled

@@ -1,0 +1,52 @@
+body
+{
+	background-color: #70dfe0;
+}
+
+#container
+{
+	background: #46a5a6;
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	margin: 0 auto;
+	border: 1px solid #247879;
+	text-align: center;
+}
+
+#logo
+{
+	border-bottom: 1px solid #247879;
+	padding-bottom: 5px;
+}
+
+#footer
+{
+	border-top: 1px solid #247879;
+	padding-top: 5px;
+}
+
+input
+{
+	background-color: #9ed6d7;
+	border: 1px solid #247879;
+	margin: 5px;
+}
+
+input[type=text]
+{
+	width: 160px;
+}
+
+input[type=password]
+{
+	width: 160px;
+}
+
+table
+{
+	background-color: #80cecf;
+	border: 1px solid #247879;
+	margin: 0 auto;
+	width: 580px;
+}
